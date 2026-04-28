@@ -1,5 +1,5 @@
 ### Custom-Image-Classifier- 
-## https://colab.research.google.com/drive/1DCnMDtwPnOYE-YPG19wDbAM2WzbHIKeJ?usp=sharing
+## https://colab.research.google.com/drive/1Fi642Dr700o57v0pg-xkZmJTRiu__VvF?usp=sharing
 
 ## 1. Dataset Preparation
 I organized my dataset in Google Drive by separating images into different folders based on their labels or classes. This makes it easier to manage and access during training. Folder structure is important in TensorFlow because it automatically reads images based on folders, so if it is not organized properly, the model may get wrong or mixed data.
