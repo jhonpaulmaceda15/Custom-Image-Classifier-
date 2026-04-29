@@ -15,7 +15,7 @@ Provide a foundation for smart farming applications
 # 1. Aloe Vera
 Scientific Name: Aloe barbadensis miller
 Description: A succulent plant known for its thick, fleshy leaves containing gel used for skin treatment, burns, and medicinal purposes.
-<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/644a53b4-05c6-4f60-ad37-c537a9213f2e" />
+<img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/644a53b4-05c6-4f60-ad37-c537a9213f2e" />
 
 # 2. Alugbati Leaves
 Scientific Name: Basella alba
